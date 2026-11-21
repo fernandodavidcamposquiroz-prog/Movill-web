@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468 148" role="img" aria-label="MOBILOOK - Estilo y Protección para tu celular">
+  <title>MOBILOOK - Estilo y Protección para tu celular</title>
+  <rect width="468" height="148" rx="16" fill="#1B38B8"/>
+  <!-- Mascot: Smartphone with swooshed hair, glasses & 5 rays -->
+  <g transform="translate(22, 14)">
+    <g stroke="#FFFFFF" stroke-width="4.2" stroke-linecap="round">
+      <line x1="12" y1="54" x2="25" y2="59"/>
+      <line x1="24" y1="24" x2="34" y2="35"/>
+      <line x1="58" y1="10" x2="58" y2="25"/>
+      <line x1="92" y1="24" x2="82" y2="35"/>
+      <line x1="104" y1="54" x2="91" y2="59"/>
+    </g>
+    <rect x="33" y="34" width="50" height="84" rx="8" fill="#FFFFFF"/>
+    <path d="M38 56 C44 55, 56 51, 66 43 C69 40, 72 44, 74 49 C76 53, 78 55, 78 59 L78 96 L38 96 Z" fill="#1B38B8"/>
+    <circle cx="58" cy="108" r="4.2" fill="#1B38B8"/>
+    <path d="M22 60 C22 57.5, 24.5 56, 28 56 L51 56 C54 56, 55.8 57.5, 58 57.5 C60.2 57.5, 62 56, 65 56 L88 56 C91.5 56, 94 57.5, 94 60 L93 64 C91.5 65, 90.5 67, 89.5 72 C88 80, 82.5 84.5, 74.5 84.5 C66.5 84.5, 62 79.5, 60.8 71.5 C60.3 68.2, 59.4 66.8, 58 66.8 C56.6 66.8, 55.7 68.2, 55.2 71.5 C54 79.5, 49.5 84.5, 41.5 84.5 C33.5 84.5, 28 80, 26.5 72 C25.5 67, 24.5 65, 23 64 Z" fill="#FFFFFF"/>
+    <path d="M30.5 62.5 L51.5 62.5 C51.2 69.5, 48.2 78.5, 41.5 78.5 C34.5 78.5, 31.3 71.2, 30.5 62.5 Z" fill="#1B38B8"/>
+    <path d="M64.5 62.5 L85.5 62.5 C84.7 71.2, 81.5 78.5, 74.5 78.5 C67.8 78.5, 64.8 69.5, 64.5 62.5 Z" fill="#1B38B8"/>
+  </g>
+  <!-- Wordmark safely fitted with textLength so fallback fonts never clip -->
+  <text x="148" y="86" textLength="290" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF" font-family="'Segoe UI', 'Arial Narrow', Arial, sans-serif" font-size="60">
+    <tspan font-weight="300">MOBIL</tspan><tspan font-weight="800">OOK</tspan>
+  </text>
+  <!-- Tagline -->
+  <text x="150" y="116" textLength="286" lengthAdjust="spacingAndGlyphs" fill="#DCE6FF" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-style="italic" font-weight="500">
+    Estilo y Protección para tu celular
+  </text>
+</svg>
